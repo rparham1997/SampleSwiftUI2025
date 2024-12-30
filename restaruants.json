@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Place",
+        "cuisine": "Italian"
+    },
+    {
+        "id": 2,
+        "name": "Burger Joint",
+        "cuisine": "American"
+    },
+    {
+        "id": 3,
+        "name": "Sushi Bar",
+        "cuisine": "Japanese"
+    }
+]

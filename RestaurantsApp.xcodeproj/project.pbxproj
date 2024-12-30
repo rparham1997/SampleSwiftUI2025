@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		30ED3C522D231986009B0723 /* RestaurantsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestaurantsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		30ED3C782D231A49009B0723 /* RestaurantsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestaurantsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		30ED3C542D231986009B0723 /* RestaurantsApp */ = {
+		30ED3C7A2D231A49009B0723 /* RestaurantsApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = RestaurantsApp;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		30ED3C4F2D231986009B0723 /* Frameworks */ = {
+		30ED3C752D231A49009B0723 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		30ED3C492D231986009B0723 = {
+		30ED3C6F2D231A49009B0723 = {
 			isa = PBXGroup;
 			children = (
-				30ED3C542D231986009B0723 /* RestaurantsApp */,
-				30ED3C532D231986009B0723 /* Products */,
+				30ED3C7A2D231A49009B0723 /* RestaurantsApp */,
+				30ED3C792D231A49009B0723 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		30ED3C532D231986009B0723 /* Products */ = {
+		30ED3C792D231A49009B0723 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				30ED3C522D231986009B0723 /* RestaurantsApp.app */,
+				30ED3C782D231A49009B0723 /* RestaurantsApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		30ED3C512D231986009B0723 /* RestaurantsApp */ = {
+		30ED3C772D231A49009B0723 /* RestaurantsApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 30ED3C602D231988009B0723 /* Build configuration list for PBXNativeTarget "RestaurantsApp" */;
+			buildConfigurationList = 30ED3C862D231A4A009B0723 /* Build configuration list for PBXNativeTarget "RestaurantsApp" */;
 			buildPhases = (
-				30ED3C4E2D231986009B0723 /* Sources */,
-				30ED3C4F2D231986009B0723 /* Frameworks */,
-				30ED3C502D231986009B0723 /* Resources */,
+				30ED3C742D231A49009B0723 /* Sources */,
+				30ED3C752D231A49009B0723 /* Frameworks */,
+				30ED3C762D231A49009B0723 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				30ED3C542D231986009B0723 /* RestaurantsApp */,
+				30ED3C7A2D231A49009B0723 /* RestaurantsApp */,
 			);
 			name = RestaurantsApp;
 			packageProductDependencies = (
 			);
 			productName = RestaurantsApp;
-			productReference = 30ED3C522D231986009B0723 /* RestaurantsApp.app */;
+			productReference = 30ED3C782D231A49009B0723 /* RestaurantsApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		30ED3C4A2D231986009B0723 /* Project object */ = {
+		30ED3C702D231A49009B0723 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					30ED3C512D231986009B0723 = {
+					30ED3C772D231A49009B0723 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 30ED3C4D2D231986009B0723 /* Build configuration list for PBXProject "RestaurantsApp" */;
+			buildConfigurationList = 30ED3C732D231A49009B0723 /* Build configuration list for PBXProject "RestaurantsApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 30ED3C492D231986009B0723;
+			mainGroup = 30ED3C6F2D231A49009B0723;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 30ED3C532D231986009B0723 /* Products */;
+			productRefGroup = 30ED3C792D231A49009B0723 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				30ED3C512D231986009B0723 /* RestaurantsApp */,
+				30ED3C772D231A49009B0723 /* RestaurantsApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		30ED3C502D231986009B0723 /* Resources */ = {
+		30ED3C762D231A49009B0723 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		30ED3C4E2D231986009B0723 /* Sources */ = {
+		30ED3C742D231A49009B0723 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		30ED3C5E2D231988009B0723 /* Debug */ = {
+		30ED3C842D231A4A009B0723 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		30ED3C5F2D231988009B0723 /* Release */ = {
+		30ED3C852D231A4A009B0723 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		30ED3C612D231988009B0723 /* Debug */ = {
+		30ED3C872D231A4A009B0723 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		30ED3C622D231988009B0723 /* Release */ = {
+		30ED3C882D231A4A009B0723 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		30ED3C4D2D231986009B0723 /* Build configuration list for PBXProject "RestaurantsApp" */ = {
+		30ED3C732D231A49009B0723 /* Build configuration list for PBXProject "RestaurantsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30ED3C5E2D231988009B0723 /* Debug */,
-				30ED3C5F2D231988009B0723 /* Release */,
+				30ED3C842D231A4A009B0723 /* Debug */,
+				30ED3C852D231A4A009B0723 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		30ED3C602D231988009B0723 /* Build configuration list for PBXNativeTarget "RestaurantsApp" */ = {
+		30ED3C862D231A4A009B0723 /* Build configuration list for PBXNativeTarget "RestaurantsApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30ED3C612D231988009B0723 /* Debug */,
-				30ED3C622D231988009B0723 /* Release */,
+				30ED3C872D231A4A009B0723 /* Debug */,
+				30ED3C882D231A4A009B0723 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 30ED3C4A2D231986009B0723 /* Project object */;
+	rootObject = 30ED3C702D231A49009B0723 /* Project object */;
 }
